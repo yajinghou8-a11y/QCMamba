@@ -16,7 +16,7 @@ Multispectral object detection leveraging paired visible (RGB) and infrared (IR)
 To address this challenge, we propose **QCMamba**, a plug-and-play fusion module seamlessly integrated into a dual-stream YOLO backbone. Our central innovation is the establishment of a **cascaded quality-guidance framework**, which dynamically propagates adaptive weights throughout the entire fusion process to assess modality reliability. 
 
 <p align="center">
-  <img src="assets/architecture.png" alt="QCMamba Architecture" width="90%">
+  <img src="assets/architecture.pdf" alt="QCMamba Architecture" width="90%">
   <br>
   <em>Figure 1: Overall architecture of the proposed dual-stream multispectral detection framework with QCMamba fusion.</em>
 </p>
